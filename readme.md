@@ -4,14 +4,14 @@
 
 Generate a random avatar in PHP with the library GD
 
-![avatar](example/0.png)
-![avatar](example/1.png)
-![avatar](example/2.png)
-![avatar](example/3.png)
-![avatar](example/4.png)
-![avatar](example/5.png)
-![avatar](example/6.png)
-![avatar](example/7.png)
+![avatar](examples/0.png)
+![avatar](examples/1.png)
+![avatar](examples/2.png)
+![avatar](examples/3.png)
+![avatar](examples/4.png)
+![avatar](examples/5.png)
+![avatar](examples/6.png)
+![avatar](examples/7.png)
 
 Generate and save
 
